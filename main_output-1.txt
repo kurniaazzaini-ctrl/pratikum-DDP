@@ -1,0 +1,8 @@
+list awal:
+['avanza', 'mobil', '1500cc', 'hitam', '4roda']
+
+list kendaraan setelah ditambahkan:
+['avanza', 'mobil', 'toyota', '1500cc', 'hitam', '4roda', '243 juta', 'CVT']
+
+
+** Process exited - Return Code: 0 **
